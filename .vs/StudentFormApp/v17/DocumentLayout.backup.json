@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\html-form-with-razor-view-florenstine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|StudentFormApp.csproj|c:\\users\\acer\\source\\repos\\html-form-with-razor-view-florenstine\\views\\home\\studentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|StudentFormApp.csproj|solutionrelative:views\\home\\studentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 398,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\html-form-with-razor-view-florenstine\\Views\\Home\\StudentForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\StudentForm.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\html-form-with-razor-view-florenstine\\Views\\Home\\StudentForm.cshtml*",
+              "RelativeToolTip": "Views\\Home\\StudentForm.cshtml*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T23:04:54.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
